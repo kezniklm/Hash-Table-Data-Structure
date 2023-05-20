@@ -4,7 +4,7 @@
 Evaluation: 14/15 points
 
 ## Assignment
-[Assignment link](https://github.com/kezniklm/IJC_project2/blob/2b71dc72d857d756c45e32c698597cfeac74ba71/IJC_%20DU2.pdf)
+[Assignment link](https://github.com/kezniklm/IJC_project2/blob/main/Assignment.pdf)
 
 ## Description
 This is a C implementation of a hash table data structure. It provides efficient key-value pair storage and retrieval using a hash function and an array.
